@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Robert Northard, <robert.a.northard>
+MAINTAINER Julius Ca-aya
 
 ENV NGINX_VERSION 1.8.0
 ENV LDAP_PROTOCOL ldap

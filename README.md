@@ -1,10 +1,7 @@
 # Supported tags and respective Dockerfile links
 
-- [`0.1.0`, `0.1.0` (*0.1.0/Dockerfile*)](https://github.com/Accenture/adop-nginx/blob/master/Dockerfile.md)
+- [`0.1.0`, `0.1.0` (*0.1.0/Dockerfile*)](https://github.com/ibmjulius/nginx/blob/master/Dockerfile.md)
 
-# Build Status
-
-[![Build Status](https://travis-ci.org/Accenture/adop-nginx.svg?branch=master)](https://travis-ci.org/Accenture/adop-nginx)
 
 # What is adop-nginx?
 
@@ -54,9 +51,8 @@ Documentation for this image is available in the [Nginx documentation page](http
 Additional documentaion can be found under the [`docker-library/docs` GitHub repo](https://github.com/docker-library/docs). Be sure to familiarize yourself with the [repository's `README.md` file](https://github.com/docker-library/docs/blob/master/README.md) before attempting a pull request.
 
 ## Issues
-If you have any problems with or questions about this image, please contact us through a [GitHub issue](https://github.com/Accenture/adop-nginx/issues).
+If you have any problems with or questions about this image, please contact us.
 
 ## Contribute
 You are invited to contribute new features, fixes, or updates, large or small; we are always thrilled to receive pull requests, and do our best to process them as fast as we can.
 
-Before you start to code, we recommend discussing your plans through a [GitHub issue](https://github.com/Accenture/adop-nginx/issues), especially for more ambitious contributions. This gives other contributors a chance to point you in the right direction, give you feedback on your design, and help you find out if someone else is working on the same thing.
